@@ -1,5 +1,5 @@
-# crypto-pals
-The Matasano crypto challenges
+# /* crypto-pals */
+**The Matasano crypto challenges**
 
 As found over at http://cryptopals.com.
 
