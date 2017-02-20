@@ -14,7 +14,7 @@ def hex_to_base64(hex_in):                      	# converts hex to a byte array
   return (b64_out)                              	# spits base back
 
 def main ():
-  print(hex_to_base64(s))                 # call function, print result print to screen
+  print(hex_to_base64(s))                         # call function, print to screen
 # --- Main --- #
 if __name__ == "__main__":
   main()
