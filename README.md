@@ -21,8 +21,11 @@ SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t
 ```
 1c0111001f010100061a024b53535009181c
 ```
+        
 - ... after hex decoding, and when XOR'd against:
-
+```
+686974207468652062756c6c277320657965
+```
 
 - Should produce:
 ```
