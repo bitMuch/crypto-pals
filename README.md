@@ -16,4 +16,20 @@ SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t
 
 --
 
+(**ch2**): Fixed XOR
+-   If your function works properly, then when you feed it the string: 
+```
+1c0111001f010100061a024b53535009181c
+```
+- ... after hex decoding, and when XOR'd against:
+
+
+- Should produce:
+```
+686974207468652062756c6c277320657965
+```
+
+--
+
+
 
